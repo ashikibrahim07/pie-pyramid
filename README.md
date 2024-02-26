@@ -14,6 +14,9 @@ You can view a live demo of the pie pyramid [here](https://ashikibrahim07.github
 
 ![SnapShot](https://github.com/ashikibrahim07/pie-pyramid/blob/main/Pie%20Chart%20SnapShot.png)
 
+## Insta Post for Comparison
+
+![Insta SnapShot](https://github.com/ashikibrahim07/pie-pyramid/blob/main/Pie%20Chart%20SnapShot.png)
 
 ## Installation
 
