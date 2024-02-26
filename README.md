@@ -10,6 +10,11 @@ This repository contains an HTML/CSS code implementation of a pie chart design t
 
 You can view a live demo of the pie pyramid [here](https://ashikibrahim07.github.io/pie-pyramid/).
 
+## SnapShot
+
+![SnapShot](https://example.com/images/logo.png)
+
+
 ## Installation
 
 To run this project locally, simply clone the repository to your local machine:
