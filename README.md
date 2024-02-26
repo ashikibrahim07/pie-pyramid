@@ -12,7 +12,7 @@ You can view a live demo of the pie pyramid [here](https://ashikibrahim07.github
 
 ## SnapShot
 
-![SnapShot](https://github.com/ashikibrahim07/pie-pyramid/blob/main/Pie%20Chart%20SnapShot.png)
+![SnapShot](https://github.com/ashikibrahim07/pie-pyramid/blob/main/pie%20pyramid%20snap.png)
 
 ## Insta Post for Comparison
 
