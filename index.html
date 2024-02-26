@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="author" content="Ashik Ibrahim S" />
+    <title>Pie Chart Design</title>
+    <style>
+      body {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+        margin: 0;
+        background-color: #f0f0f0;
+      }
+
+      .pie-chart {
+        position: relative;
+        margin: 10px;
+        width: 300px;
+        height: 300px;
+        border-radius: 50%;
+        background-image: conic-gradient(
+          #1e7394 40deg 130deg,
+          #2a1919 130deg 140deg,
+          #c2a329 140deg 220deg,
+          #1e7394 220deg 360deg
+        );
+      }
+
+      .legend {
+        margin: 20px;
+      }
+
+      .legend-item {
+        display: flex;
+        align-items: center;
+        margin: 20px;
+      }
+
+      .legend-box {
+        width: 20px;
+        height: 20px;
+        margin-right: 5px;
+        border-radius: 50%;
+      }
+
+      .legend-label {
+        font-size: 14px;
+      }
+
+      @media only screen and (max-width: 768px) {
+        .pie-chart {
+          width: 200px;
+          height: 170px;
+        }
+
+        .legend {
+          flex-direction: column;
+        }
+
+        .legend-item {
+          margin: 10px 0;
+        }
+        .legend-box {
+          width: 15px;
+          height: 15px;
+          margin-right: 5px;
+          border-radius: 50%;
+        }
+        .legend-label {
+          font-size: 12px;
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <div class="pie-chart"></div>
+    <div class="legend">
+      <div class="legend-item">
+        <div class="legend-box" style="background-color: #1e7394"></div>
+        <div class="legend-label">Sky</div>
+      </div>
+      <div class="legend-item">
+        <div class="legend-box" style="background-color: #c2a329"></div>
+        <div class="legend-label">Sunny Side of Pyramid</div>
+      </div>
+      <div class="legend-item">
+        <div class="legend-box" style="background-color: #2a1919"></div>
+        <div class="legend-label">Shady side of Pyramid</div>
+      </div>
+    </div>
+  </body>
+</html>
