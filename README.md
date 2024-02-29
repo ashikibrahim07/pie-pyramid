@@ -4,7 +4,7 @@ This project showcases an interesting optical illusion where a pie chart image r
 
 ## Description
 
-This repository contains an HTML/CSS code implementation of a pie chart design that appears as a traditional pie chart on the surface but reveals a pyramid portrait upon closer inspection. The design features three main colors: sky blue for the sky, yellow for the pyramid, and black for shadow.
+Within this repository lies an HTML/CSS code rendition of a pie chart design initially resembling a conventional pie chart but revealing a pyramid portrait upon closer scrutiny. The design showcases three primary hues: sky blue for the sky, yellow representing the pyramid, and black for the shadow effect. I've accomplished this using `conic-gradient`.
 
 ## Demo
 
