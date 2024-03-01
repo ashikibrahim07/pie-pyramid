@@ -2,6 +2,17 @@
 
 This project showcases an interesting optical illusion where a pie chart image resembles an ordinary pie chart at first glance but is actually a pyramid portrait when examined closely.
 
+## Table of Contents
+
+- [Description](#description)
+- [Demo](#demo)
+- [SnapShot](#snapshot)
+- [Insta Post for Comparison](#insta-post-for-comparison)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Credits](#credits)
+- [License](#license)
+  
 ## Description
 
 Within this repository lies an HTML/CSS code rendition of a pie chart design initially resembling a conventional pie chart but revealing a pyramid portrait upon closer scrutiny. The design showcases three primary hues: sky blue for the sky, yellow representing the pyramid, and black for the shadow effect. I've accomplished this using `conic-gradient`.
